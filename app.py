@@ -16,7 +16,7 @@ df = preprocessor.preprocess(df, region_df)
 # Set up the sidebar title
 st.sidebar.title('Olympics Analysis')
 
-#Insert Olympics Symbol
+#Insert Olympics Symbols
 st.sidebar.image('https://cdn.britannica.com/01/23901-050-33507FA4/flag-Olympic-Games.jpg')
 
 # Create a radio button for user menu selection
